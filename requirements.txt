@@ -5,3 +5,10 @@ asyncio
 sentence-transformers
 transformers
 faster-whisper
+ffmpeg
+pyannote.core
+pyannote.audio
+torchvision
+jupyter
+datasets
+openai
